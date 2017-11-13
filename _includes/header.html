@@ -1,0 +1,12 @@
+
+<header>
+<div class="wrap">
+<nav class="cf">
+<a class="mobile-menu-link js-nav-toggle" href="#nav-mobile">+ Menu</a>
+<a class="logo" title="{{ site.title }} home page" href="/">Fred Elwell</a>
+  <ul class="{{ page.bodyclass }} js-hide">{% for page in site.pages %}{% if page.title %}{% unless page.exclude_from_nav %}
+   <li class="{{ page.bodyclass }}"><a title="{{ page.title }}" class="page-link" href="{{ page.url | prepend: site.baseurl }}">{% if page.navtitle %}{{ page.navtitle }}{% else %}{{ page.title }}{% endif %}</a></li>{% endunless %}{% endif %}{% endfor %}
+	</ul>
+</nav>
+</div>
+</header>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fred Elwell - A Life in Art</title>
+    <description>New book about Frederick William Elwell, RA (1870—1958), better known as the artist Fred Elwell, who was an English painter and lived in Beverley, East Yorkshire. The celebratory edition of his biography by Wendy Loncaster and Malcolm Shields embraces his genius afresh.
+</description>
+    <link>https://www.fredelwell.org/</link>
+    <atom:link href="https://www.fredelwell.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 13 Nov 2017 13:45:00 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Nov 2017 13:45:00 +0000</lastBuildDate>
+    <generator>Jekyll v3.2.0</generator>
+    
+      <item>
+        <title>Oxford Dictionary recognises Fred Elwell in it's National Biography</title>
+        <description>&lt;p&gt;A public library ticket number works as a log in. &lt;cite&gt;The book Fred Elwell RA — A Life in Art&lt;/cite&gt; is now becoming a treasured collector’s piece. &lt;a href=&quot;http://oxforddnb.com/index/109/101109544/&quot;&gt;Get started now&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Apr 2016 01:00:00 +0100</pubDate>
+        <link>https://www.fredelwell.org/news/update/year/holiday/2016/04/28/news.html</link>
+        <guid isPermaLink="true">https://www.fredelwell.org/news/update/year/holiday/2016/04/28/news.html</guid>
+        
+        
+        <category>news</category>
+        
+        <category>update</category>
+        
+        <category>year</category>
+        
+        <category>holiday</category>
+        
+      </item>
+    
+  </channel>
+</rss>

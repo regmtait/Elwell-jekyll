@@ -1,0 +1,79 @@
+---
+layout: default
+nav-class: home
+description: New book about Frederick William Elwell, RA (1870—1958), better known as the artist Fred Elwell, who was an English painter and lived in Beverley, East Yorkshire. The celebratory edition of his biography by Wendy Loncaster and Malcolm Shields embraces his genius afresh.
+keywords: Fred Elwell, Frederick William Elwell, book, art, painter, biography, Hull, Beverley, A Life in Art, Wendy Loncaster, Malcolm Shields
+nav-class: home
+---
+
+
+<div class="hero cf">
+<div class="wrap">
+<div class="text">
+<span class="authors" title="Wendy Loncaster and Malcolm Shields">Wendy Loncaster &amp; Malcolm Shields</span>
+<h1>Fred Elwell <span class="smallcaps" title="Royal Academy">RA</span> <br>&ndash; A Life in Art</h1>
+<span class="strapline">Hardback, Thread-stitched, Luxury, Celebratory Edition</span>
+{% markdown herotext.md %}
+<a href="/celebratory-edition/" title="Look inside Fred Elwell RA – A Life in Art" class="button">Look inside the book</a>
+</div>
+<div class="img-wrap">
+<a href="/celebratory-edition/" title="Look inside the book">
+<img src="{{site.imagepath}}book-cover.jpg" alt="Self portrait 3, Frederick William Elwell, 1933, aged 63. Oil on Canvas. Cover of Fred Elwell - A Life in Art"/>
+</a>
+</div>
+</div>
+</div>
+
+
+<section class="home-edition cf ">
+
+<div class="wrap">
+<div class="home-edition-intro">
+<p>Born in Beverley, East Yorkshire, Elwell enjoyed a long and active career, extending from the dazzle of Belle Époque Antwerp and Paris to the bleakness of post­war Britain. His early years in Europe enriched his work and engendered in him a fascinating versatility of style, ranging from the Dutch and Flemish Old Masters, to Impressionism or the freshness of English Realism. Throughout he displays an integrity of subject constantly enhanced by brilliant effects, harmonious and pleasing to the eye. We also recognise today how skilfully he illuminates the period in which he lived.</p>
+</div>
+
+<aside class="book-publish-info">
+<ul>
+	<li><strong>ISBN:</strong> 978-0-9929704-0-6</li>
+	<li><strong>Hardback:</strong> 216 pages, 260 x 270mm</li>
+	<li><strong>Published:</strong> <date>September 2014</date></li>
+	<li><strong>RRP:</strong> &pound;29.95 + &pound;2.80 p&amp;p</li>
+</ul>
+</aside>
+</div>
+</section>
+
+<section class="cf alt home-alt home-alt-darker">
+<div class="wrap centered">
+<h2 class="cta">Buy Fred Elwell RA &mdash; A Life in Art now</h2>
+<ul class="shop-logos">
+	<li class="amazon"><a href="https://www.amazon.co.uk/Fred-Elwell-R-Perspective-Master/dp/0992970407 " title="Buy Fred Elwell - A Life in Art from Amazon.co.uk"><img src="{{site.imagepath}}logos/amazon-logo.png" alt="Amazon logo" /></a><li>
+	<li class="waterstones"><a href="https://www.waterstones.com/book/fred-elwell-r-a-a-life-in-art/wendy-ann-loncaster/malcolm-shields/9780992970406" title="Buy Fred Elwell - A Life in Art from Waterstones"><img src="{{site.imagepath}}logos/waterstones-logo.png" alt="Waterstones logo" /></a><li>
+</ul>
+</div>
+</section>
+
+<section class="cf alt home-alt">
+<div class="wrap split-col">
+{% markdown homepage-vendorcont.md %}
+</div>
+</section>
+
+<section class="cf">
+<div class="home-book-intro wrap">
+<blockquote>
+<q><a title="Read more reviews for Fred Elwell - A Life in Art" href="/reviews/">Congratulations. The book is magnificent. I recommend it to all those interested in the history of art in the twentieth century. Whatever changes in tastes and fashion there may be in the future, Elwell's paintings will remain as an important record.</a></q>
+<p><span class="author">Arthur G. Credland MBE</span><br/>
+Editor of The East Yorkshire Historian</p>
+</blockquote>
+</div>
+</section>
+
+<section class="cf book-launch">
+<div class="wrap">
+{% for post in site.posts limit:1 %}
+<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+<p><span class="post-date">{{ post.date | date: "%b %-d, %Y" }} —</span> {{ post.excerpt }}</p>
+{% endfor %}
+</div>
+</section>

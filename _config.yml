@@ -1,0 +1,15 @@
+# Site settings
+title: Fred Elwell - A Life in Art
+description: > # this means to ignore newlines until "baseurl:"
+  New book about Frederick William Elwell, RA (1870—1958), better known as the artist Fred Elwell, who was an English painter and lived in Beverley, East Yorkshire. The celebratory edition of his biography by Wendy Loncaster and Malcolm Shields embraces his genius afresh.
+baseurl: ""
+url: "https://www.fredelwell.org"
+github_username:  regmtait
+themepath: /theme/
+imagepath: /images/
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+markdown: kramdown

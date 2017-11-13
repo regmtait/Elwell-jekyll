@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+
+<div class="wrap">
+<article>
+
+<h1 class="post-title">{{ page.title }}</h1>
+
+{{ content }}
+
+<a id="scroll-target"></a>
+
+<span class="controls">
+<a href="#scroll-target" class="prev-slide" title="Previous plate">&larr; Previous plate</a>
+<a href="#scroll-target" class="next-slide" title="Next plate">Next plate &rarr;</a>
+</span>
+
+<div class="bxslider">
+
+{% for bookpage in page.bookpages %}
+
+<div>
+
+<div class="slide-text">
+
+<div class="cf slide-img-wrap {{ bookpage.imagetype }}">
+<img src="/images/plates/plate{{ bookpage.platenumber }}.jpg" title="{{ bookpage.title }} by Fred Elwell"/>
+</div>
+
+<h2><span class="plate-number">{{ bookpage.platenumber }}</span><span class="txt">{{ bookpage.title }}</span></h2>
+<ul class="painting-details">
+    <li>{{ bookpage.details }}</li>
+</ul>
+
+<p>{{ bookpage.text }}</p>
+
+</div>
+
+<a class="pdf-download cf" href="/pdfs/Elwell-plate{{ bookpage.platenumber }}.pdf" title="Download &ldquo;{{ bookpage.title }}&rdquo; PDF sample">Download a PDF sample of “{{ bookpage.title }}” from <cite>Fred Elwell RA — A Life in Art</cite></a>
+
+</div>
+
+{% endfor %}
+
+</div>
+
+</div>
+
+
+</article>
+
+</div>

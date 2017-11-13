@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+
+<section class="maincontent {{ page.sectionclass }}">
+<div class="wrap">
+
+<article>
+
+<h1 class="post-title">{{ page.title }}</h1>
+
+
+{% if page.pageimage %}
+<img class="{{ page.pageimageclass }}" src="{{ site.imagepath }}{{ page.pageimage }}" alt="{{ page.pageimagealt }}"/>
+{% endif %}
+
+{{ content }}
+
+</article>
+
+</div>
+</section>
