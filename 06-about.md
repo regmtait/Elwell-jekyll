@@ -35,7 +35,7 @@ The biography was written from direct personal interviews with close relatives a
 
 Share in a joyous celebration of one of England's most popular Royal Academicians, exactly 100 years to the day he married the exceptionally talented artist Mary Dawson Holmes. Together, they exhibited at the Royal Academy.
 
-This reappraisal, twenty-one years after the first edition, embraces his genius afresh and displays a versatility which surprises. Included in this luxurious, thread-sewn, hardback volume of 216 pages is a wealth of new material and pictures seldom seen before. The book contains a Gallery of more than 140 [full-colour large illustrations](/look-inside/), with over 90 scattered elsewhere within the text. Watch out for other gifted members of the Elwell family too.
+This reappraisal, twenty-one years after the first edition, embraces his genius afresh and displays a versatility which surprises. Included in this luxurious, thread-sewn, hardback volume of 216 pages is a wealth of new material and pictures seldom seen before. The book contains a Gallery of more than 140 [full-colour large illustrations](/plates/), with over 90 scattered elsewhere within the text. Watch out for other gifted members of the Elwell family too.
 
 <div class="extra">
 <p><a href="/plates/" title="Paintings by Fred Elwell">View a small selection of plates from the book →</a></p>

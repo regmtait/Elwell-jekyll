@@ -24,7 +24,7 @@ Educated at Hymers College and Hull College of Commerce. Lectured in numismatics
 
 In 2008 Malcolm co-authored with Wendy the Walter Goodin project <cite>[Walter Goodin – Above All, the Sky]</cite>.
 
-[Walter Goodin – Above All, the Sky]: goodin.html "Walter Goodin - Above All, The Sky"
+[Walter Goodin – Above All, the Sky]: /goodin/ "Walter Goodin - Above All, The Sky"
 
 <div class="extra">
 
