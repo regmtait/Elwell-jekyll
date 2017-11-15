@@ -7,7 +7,7 @@
 <meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}{% endif %}">
 <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}Fred Elwell{% endif %}">
 <meta name="author" content="@regmtait">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
 
 <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
 
