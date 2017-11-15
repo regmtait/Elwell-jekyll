@@ -3,7 +3,7 @@ layout: page
 title: Reviews for Fred Elwell—A life in Art
 navtitle: Reviews
 bodyclass: reviews
-description: Fred Elwell was a Beverley-based painter
+description: Reviews for the luxury edition of Fred Elwell - A Life in Art, the biography of the Beverley artist Fred Elwell.
 keywords: artist, painter, beverley
 permalink: /reviews/
 sectionclass: praise

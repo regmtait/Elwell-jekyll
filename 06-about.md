@@ -3,7 +3,7 @@ layout: page
 title: About Fred Elwell
 navtitle: Fred Elwell
 bodyclass: about
-description: Fred Elwell was a Beverley-based painter
+description: Frederick William Elwell, RA (1870—1958), better known as the artist Fred Elwell was a Beverley-based painter.
 keywords: artist, painter, beverley
 permalink: /about-fred-elwell/
 pageimage: elwell-closeup.jpg

@@ -4,11 +4,9 @@ layout: bookedition
 title: Walter Goodin - Above All, The Sky
 preheader: Also from the same authors…
 bodyclass: celebratory
-description: The second edition of Fred Elwell - A Life in Art. Fred Elwell was an English artist and one of England's most popular Royal Academicians of his day. View sample plates of paintings in a variety of styles.
-keywords: where, Fred Elwell, Autobiography, second edition, art books, beverley
+description: Biography of Walter Goodin, Bridlington Artist.
+keywords: Walter Goodin, Above All, The Sky, biography
 permalink: /goodin/
-pageimage: 
-pageimagealt: 
 sectionclass: goodin
 pageimageclass: book-details
 exclude_from_nav: true

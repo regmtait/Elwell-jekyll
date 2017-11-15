@@ -3,8 +3,8 @@ layout: page
 title: Where to buy
 bodyclass: where
 navtitle: Where to buy
-description: Fred Elwell was a Beverley-based painter
-keywords: artist, painter, beverley
+description: Where to by the new biography of the artist Fred Elwell RA, a Beverley-based painter.
+keywords: artist, painter, beverley, where to buy
 permalink: /where-to-buy/
 sectionclass: where
 exclude_from_nav: false
