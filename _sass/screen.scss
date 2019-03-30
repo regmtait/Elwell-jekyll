@@ -596,11 +596,12 @@ h3 {
 .where h4 {
   font-size: 1.2rem;
   border-radius: 1px;
-  display: inline-block;
-  padding: 0.6em 1em .8em;
-  margin-top: 1rem;
+  // display: inline-block;
+  padding-bottom: 0.6em;
+  margin-top: 2rem;
   margin-bottom: 1rem;
-  background-color: #f8f5e8;
+  border-bottom: 4px dotted lighten($theme2, 30%);
+  // background-color: #f8f5e8;
 }
 
 q {display: block;

@@ -15,8 +15,6 @@ exclude_from_nav: false
 
 * Beverley Art Gallery
 * The Ferens Art Gallery Hull
-* The Cut-Price Book Store, Butcher Row, Beverley
-* Barker's, 159 Hallgate, Cottingham, HU16 4BB
 * Hessle Book Shop, 23-25 Northgate, Hessle, HU13 0LW
 * Dee Atkinson & Harrison, Exchange Street, Driffield, East Yorkshire, YO25 6LD
 * The University of Hull Art Gallery, Brynmor Jones Library, The University of Hull, HU6 7RX
@@ -30,6 +28,9 @@ exclude_from_nav: false
 
 For prices, queries, quantity enquiries and overseas, please email [wendy@loncaster.org](mailto:wendy@loncaster.org "Email us for quantity enquiries")
 
-### Orders by post from the distributors:
+#### Orders also welcome via Wendy ([wendy@loncaster.org](mailto:wendy@loncaster.org "Email Wendy Loncaster"))
 
-Premier Books, 152-154 Hessle Road, Hull, East Yorkshire, HU3 3AD. Make cheques to Loncaster & Shields. Tel. 01482 328092.
+### <i>Fred Elwell RA - A Life in Art</i>, price **£29.95** plus **£2.95** UK postage. 
+
+* BACS Payment to <b>Loncaster & Shields</b>
+* Yorkshire Bank, Beverley • Sort Code <b>05-02-37</b> • Account number <b>27619676</b>
