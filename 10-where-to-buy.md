@@ -28,9 +28,12 @@ exclude_from_nav: false
 
 For prices, queries, quantity enquiries and overseas, please email [wendy@loncaster.org](mailto:wendy@loncaster.org "Email us for quantity enquiries")
 
-#### Orders also welcome via Wendy ([wendy@loncaster.org](mailto:wendy@loncaster.org "Email Wendy Loncaster"))
+#### Orders also welcome via Wendy Loncaster
 
-### <i>Fred Elwell RA - A Life in Art</i>, price **£29.95** plus **£2.95** UK postage. 
+* <cite>Fred Elwell RA - A Life in Art</cite> — £19.95 inclusive of UK postage
+* Please email order to [wendy@loncaster.org](mailto:wendy@loncaster.org "Order enquiry for Fred Elwell RA - A Life in Art")
 
+<!--
 * BACS Payment to <b>Loncaster & Shields</b>
 * Yorkshire Bank, Beverley • Sort Code <b>05-02-37</b> • Account number <b>27619676</b>
+-->
