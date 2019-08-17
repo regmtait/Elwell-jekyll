@@ -30,7 +30,7 @@ For prices, queries, quantity enquiries and overseas, please email [wendy@loncas
 
 #### Orders also welcome via Wendy Loncaster
 
-* <cite>Fred Elwell RA - A Life in Art</cite> — £19.95 inclusive of UK postage
+* <cite>Fred Elwell RA - A Life in Art</cite> — £19.95 plus £3 UK postage
 * Please email order to [wendy@loncaster.org](mailto:wendy@loncaster.org "Order enquiry for Fred Elwell RA - A Life in Art")
 
 <!--
