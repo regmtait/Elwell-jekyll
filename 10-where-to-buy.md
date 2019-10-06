@@ -19,7 +19,7 @@ exclude_from_nav: false
 * Dee Atkinson & Harrison, Exchange Street, Driffield, East Yorkshire, YO25 6LD
 * The University of Hull Art Gallery, Brynmor Jones Library, The University of Hull, HU6 7RX
 * The Town House, Newbegin, Hornsea
-* [Waterstones](https://www.waterstones.com/book/fred-elwell-r-a-a-life-in-art/wendy-ann-loncaster/malcolm-shields/9780992970406 "Waterstones website")
+* [Waterstones in Hull](https://www.waterstones.com/bookshops/hull "Waterstones in Hull")
 
 #### You can order online from [amazon.co.uk](https://www.amazon.co.uk/Fred-Elwell-R-Perspective-Master/dp/0992970407  "Buy Fred Elwell RA - A Life in Art from Amazon.co.uk")
 

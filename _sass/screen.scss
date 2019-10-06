@@ -423,10 +423,14 @@ section {
 }
 
 
-section.book-launch {
+section.news-section {
   background-color: #f8f5e8;
-  article {
+  .news-listing {
   clear: both;
+  border-bottom: 1px solid #dcd9d2;
+  }
+  .news-listing:last-child {
+    border-bottom: #dcd9d2;
   }
   section.maincontent img {
     box-shadow: 0 2px 2px #ccc;
@@ -440,6 +444,14 @@ section.book-launch {
   h3 {margin-bottom: 8px; margin-top: 1em; color: #A79B85;}
   p {margin-top: 8px;}
 
+}
+
+
+.back-link {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #dcd9d2;
+  display: block;
 }
 
 .centered {

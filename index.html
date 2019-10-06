@@ -48,10 +48,24 @@ nav-class: home
 <h2 class="cta">Buy Fred Elwell RA &mdash; A Life in Art now</h2>
 <ul class="shop-logos">
 	<li class="amazon"><a href="https://www.amazon.co.uk/Fred-Elwell-R-Perspective-Master/dp/0992970407 " title="Buy Fred Elwell - A Life in Art from Amazon.co.uk"><img src="{{site.imagepath}}logos/amazon-logo.png" alt="Amazon logo" /></a><li>
-	<li class="waterstones"><a href="https://www.waterstones.com/book/fred-elwell-r-a-a-life-in-art/wendy-ann-loncaster/malcolm-shields/9780992970406" title="Buy Fred Elwell - A Life in Art from Waterstones"><img src="{{site.imagepath}}logos/waterstones-logo.png" alt="Waterstones logo" /></a><li>
+	<li class="waterstones"><a href="https://www.waterstones.com/bookshops/hull" title="Buy Fred Elwell - A Life in Art from Waterstones in Hull"><img src="{{site.imagepath}}logos/waterstones-logo.png" alt="Waterstones logo" /></a><li>
 </ul>
 </div>
 </section>
+
+
+<section class="cf book-launch news-section" id="news-section">
+<div class="wrap">
+<h2>News updates</h2>
+{% for post in site.posts limit:3 %}
+<div class="news-listing">
+<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+<p><span class="post-date">{{ post.date | date: "%b %-d, %Y" }} —</span> {{ post.excerpt }}</p>
+</div>
+{% endfor %}
+</div>
+</section>
+
 
 <section class="cf alt home-alt">
 <div class="wrap split-col">
@@ -66,14 +80,5 @@ nav-class: home
 <p><span class="author">Arthur G. Credland MBE</span><br/>
 Editor of The East Yorkshire Historian</p>
 </blockquote>
-</div>
-</section>
-
-<section class="cf book-launch">
-<div class="wrap">
-{% for post in site.posts limit:1 %}
-<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-<p><span class="post-date">{{ post.date | date: "%b %-d, %Y" }} —</span> {{ post.excerpt }}</p>
-{% endfor %}
 </div>
 </section>
