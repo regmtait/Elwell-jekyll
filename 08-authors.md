@@ -7,7 +7,7 @@ description: Meet the Authors of Fred Elwell - a life in art, Wendy Loncaster an
 keywords: Privacy Policy
 permalink: /authors/
 pageimage: wendy-and-malcolm.jpg
-pageimagealt: Wendy Loncaster and Malcolm Shields, authors of the book Fred Elwell - A Life in Art
+pageimagealt: Wendy Loncaster and Malcolm Shields, authors of Fred Elwell - A Life in Art
 pageimageclass: authors
 exclude_from_nav: false
 ---
