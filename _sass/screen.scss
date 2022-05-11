@@ -358,17 +358,15 @@ p strong, li strong {
 }
 
 @font-face {
-  font-family: "Trajan";
-  src: url('/fonts/trajan_pro.eot');
-  src: local('☺'), url('/fonts/trajan_pro.woff') format('woff'), url('/fonts/trajan_pro.svg') format('svg');
+  font-family: "Caps";
+  src: url('/fonts/elwell-caps.woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Elwell";
-  src: url('/fonts/elwell-regular.eot');
-  src: local('☺'), url('/fonts/elwell-regular.woff') format('woff'), url('/fonts/elwell-regular') format('svg');
+  src: url('/fonts/elwell-regular.woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -542,7 +540,7 @@ nav {
     
   a.logo, a.logo:visited {
   left: -200px;
-  font-family: "Trajan";
+  font-family: "Caps";
   transition: color 0.2s ease-in-out;
   padding-top: 1.1em; padding-bottom: 0.9rem; 
   display: block; width: 7.5em; float: left; padding-left: 2rem;
@@ -557,7 +555,7 @@ nav {
   }
 
 h1.intro {
-  font-family: 'Trajan', serif;
+  font-family: 'Caps', serif;
   font-weight: normal;
   line-height: 2rem;
   color: $color-main;
@@ -759,7 +757,7 @@ article {
   line-height: 2.5rem;
   letter-spacing: -2px;
   text-transform:uppercase;
-  font-family: "Trajan", serif;
+  font-family: "Caps", serif;
   }
   
   span.authors {color: $color-dark; display: block;}
