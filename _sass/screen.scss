@@ -357,19 +357,6 @@ p strong, li strong {
   color: #A79B85;
 }
 
-@font-face {
-  font-family: "Caps";
-  src: url('/fonts/caps.woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Elwell";
-  src: url('/fonts/regular.woff');
-  font-weight: normal;
-  font-style: normal;
-}
 
 html {
   height: 100%;
@@ -380,16 +367,14 @@ html {
 }
 
 body {
-  font-family: 'Elwell', sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 19.5px;
   color: $color-main;
   line-height: 1.5rem;
   background-color: $color-light;
 }
 
-h1, h2, h3, h4 {font-weight: normal;
-}
-
-
+h1, {font-weight: normal;}
 
 section {
   padding-bottom: 1rem;
@@ -540,7 +525,9 @@ nav {
     
   a.logo, a.logo:visited {
   left: -200px;
-  font-family: "Caps";
+  font-family: 'Cinzel', serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
   transition: color 0.2s ease-in-out;
   padding-top: 1.1em; padding-bottom: 0.9rem; 
   display: block; width: 7.5em; float: left; padding-left: 2rem;
@@ -555,7 +542,7 @@ nav {
   }
 
 h1.intro {
-  font-family: 'Caps', serif;
+  font-family: 'Cinzel', serif;
   font-weight: normal;
   line-height: 2rem;
   color: $color-main;
@@ -753,11 +740,10 @@ article {
   color: $color-light;
   margin-top: 1rem;
   margin-bottom: 0rem;
-  font-size: 2.5rem;
+  font-size: 2.6rem;
   line-height: 2.5rem;
-  letter-spacing: -2px;
   text-transform:uppercase;
-  font-family: "Caps", serif;
+  font-family: 'Cinzel', serif;
   }
   
   span.authors {color: $color-dark; display: block;}
@@ -774,7 +760,7 @@ article {
 
 .button {
 border: 1px solid $color-light; background-color: $theme1;color: $color-light;
-font-family: "Elwell";
+font-family: 'Nunito Sans', sans-serif;
 padding: 0.4rem 0.7rem 0.4rem 0.7rem;
 margin-bottom: 3rem;
 margin-top: 1rem;
