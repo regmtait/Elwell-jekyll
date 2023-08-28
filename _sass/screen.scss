@@ -965,10 +965,21 @@ span.controls {
     img:last-child {
       float: right;
       clear: none;
-    }
-  
-  }
-  
+    } 
+  } 
+}
+
+
+.float-pic {
+  max-width: 100%;
+}
+
+@media screen and (min-width: $width-small) {
+.float-pic {
+  float: right;
+  width: 400px;
+  margin-left: 1rem;
+}
 }
 
 
