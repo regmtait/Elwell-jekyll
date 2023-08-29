@@ -35,9 +35,7 @@ audio:not([controls]) {
 
 
 html {
-  font-size: 100%; /* 1 */
-  -webkit-text-size-adjust: 100%; /* 2 */
-  -ms-text-size-adjust: 100%; /* 2 */
+  font-size: 100%;
 }
 
 html,
@@ -357,7 +355,6 @@ p strong, li strong {
 
 html {
   height: 100%;
-  font-size: 16px;
   font-size: 17px;
   background-color: $color-light;
   background-color: $html-bg;
@@ -365,7 +362,6 @@ html {
 
 body {
   font-family: 'Nunito Sans', sans-serif;
-  font-size: 19.5px;
   color: $color-main;
   line-height: 1.5rem;
   background-color: $color-light;
@@ -1374,7 +1370,7 @@ blockquote q {padding-right: 4em;}
 html {font-size: 18px;}
 }
 @media screen and (min-width : $width-giant) {
-html {font-size: 20px;}
+html {font-size: 19px;}
 }
 
 @media screen and (-webkit-min-device-pixel-ratio: 1.5) {
