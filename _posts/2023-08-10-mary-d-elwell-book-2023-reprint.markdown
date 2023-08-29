@@ -14,6 +14,5 @@ It will happily be launched, and on sale, at <a href="https://hm.churchsuite.com
 
 And you are warmly invited to come along.
 
-<img src="{{site.imagepath}}/ss/book-ss-spread-2.jpg" alt="Mary Elwell Stepping from the Shadows interior spread"/>
-
-<img src="{{site.imagepath}}/ss/book-ss-spread-1.jpg" alt="Mary Elwell Stepping from the Shadows interior spread"/>
+<img class="full-width" src="{{site.imagepath}}/ss/book-ss-spread-2.jpg" alt="Mary Elwell Stepping from the Shadows interior spread"/>
+<img class="full-width" src="{{site.imagepath}}/ss/book-ss-spread-1.jpg" alt="Mary Elwell Stepping from the Shadows interior spread"/>

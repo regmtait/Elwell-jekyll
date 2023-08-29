@@ -318,9 +318,6 @@ $color-dark: #000;
 $charcoal: #454545;
 $charcoal-text: #D9D9D9;
 
-
-
-
 $width-tiny:  320px;
 $width-small:  500px;
 $width-small-ish:  660px;
@@ -331,8 +328,8 @@ $width-large:  1024px;
 $width-large:  1200px;
 $width-giant:  1300px;
 
-$color-headings:  #8d8d9b;
-$color-headings:  #64646c;
+//$color-headings:  #8d8d9b;
+$color-headings:  #9e9e9e;
 //$color-headings:  #2a2a2d;
 
 @mixin section-break {
@@ -579,14 +576,14 @@ font-size: 1.4rem;
   }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.3rem;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
-  color:$color-headings;
+  color: $color-headings;
 }
 h3 {
-  font-size: 1rem;
-  font-weight: auto;
+  font-size: 1.17rem;
+  font-weight: bold;
   color:$color-headings;
 }
 
@@ -972,6 +969,11 @@ span.controls {
 
 .float-pic {
   max-width: 100%;
+}
+
+.full-width {
+  max-width: 100%;
+  margin: 1rem 0;
 }
 
 @media screen and (min-width: $width-small) {
